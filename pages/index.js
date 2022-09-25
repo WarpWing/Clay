@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Is SkyCrypt Up?" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Go check <a href="https://sky.shiiyu.moe/">here</a> dummy
         </p>
       </main>
 
