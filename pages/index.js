@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>SkyCrypt Uptime App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Is SkyCrypt Up?" />
         <p className="description">
-         Go check <a href="https://sky.shiiyu.moe/">here</a> dummy
+         Go check <a target="_blank" rel="noopener noreferrer" href="https://sky.shiiyu.moe/">here</a> dummy
         </p>
       </main>
 
